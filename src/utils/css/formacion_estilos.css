@@ -1,0 +1,58 @@
+
+/*Estilos de la pagina de fomacion academica*/
+body{
+    background-color: #212624;
+}
+.titulofo{
+    font-size: 90px;
+    color: #54678F;
+    font-family: "Lora";
+    letter-spacing: 3px;
+    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.contenedor_fo{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 5px;
+
+}
+
+.contenedor_fo1{
+    margin: 0;
+    margin-left: 230px;
+    background-color: #6C6B74;    
+    border-radius: 13px;
+    width: 75% ;
+    height: 40vh;
+    margin-top: 35px;
+    font-size: 19px;
+    text-align: justify;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 35px;
+
+}
+
+.contenedor_fo2{
+    margin-right: 150px;
+    width: 65%;
+    background-color: #9199BE;
+    border-radius: 40px;
+    height: 53vh;
+    box-shadow: black -8px 10px 30px 2px;
+}
+
+.contenedor_fo2 img{
+    margin: 0px;
+    width: 97%;
+    height: 380px;
+    padding: 3px 10px 5px 5px;
+}
+
+
+.Form{
+    position: absolute;
+    z-index: 3;
+}
